@@ -2,9 +2,9 @@
 
 Cari dan ubah code seperti di bawah.
 
-/* Whatsapp Settings */
-var walink = 'https://web.whatsapp.com/send',
-    phone = '6285155455088',
-    walink2 = 'Halo rifaii',
-    text_yes = 'Terkirim.',
-    text_no = 'Isi semua Formulir lalu klik Send.';
+/* Whatsapp Settings */<br>
+var walink = 'https://web.whatsapp.com/send',<br>
+    phone = '6285155455088',<br>
+    walink2 = 'Halo rifaii',<br>
+    text_yes = 'Terkirim.',<br>
+    text_no = 'Isi semua Formulir lalu klik Send.';<br>
