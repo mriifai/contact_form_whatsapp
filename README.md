@@ -1,6 +1,8 @@
 # contact_form_whatsapp
 
-Cari dan ubah code seperti di bawah.
+Cari seperti di bawah.<br>
+
+Silahkan ubah sesuai selera.
 
 /* Whatsapp Settings */<br>
 var walink = 'https://web.whatsapp.com/send',<br>
