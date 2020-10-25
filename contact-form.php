@@ -1,12 +1,16 @@
-<div class="section-title">
-<h1 class="page-headline spanborder h3"><span><?php the_title();?></span> </h1> 
-</div><?php
-?>
-<?php
- /* Template Name: Form Kontak */
-?>
+<!doctype html>
+<html lang="en">
 
-<style type="text/css">
+<head>
+  <meta charset="utf-8">
+  <title>Muhamad Rifai</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"/>
+</head>
+
+<style>
+
 body{font-family:'Roboto',Arial,sans-serif}.none{display:none}
 
 /* Input Field CSS */
@@ -21,6 +25,8 @@ form.whatsapp-form {
     color: #444;
     font-size: 14px;
     line-height: 1.5;
+    width: 50%;
+    margin: auto;
 }
  .whatsapp-form a.send_form {
     color: #fff;
@@ -50,11 +56,7 @@ form.whatsapp-form {
     color: #ce0404;
 }
 </style>
-<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
-<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"/>
-</head>
 <body>
-
 <form class="whatsapp-form">
 <div class="datainput">
 <input class="validate" id="wa_name" name="name" required="" type="text" value=''/>
